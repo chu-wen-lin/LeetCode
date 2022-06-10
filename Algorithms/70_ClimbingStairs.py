@@ -1,7 +1,9 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
+        # solution 1: 使用dictionary作為備忘錄作法
         # Time Complexity = 子問題個數*計算每個子問題的時間 = O(N) * O(1) = O(N)
         # 利用dictionary記住已經算過的。總共只需計算f(1)+f(2)+...+f(n)
+        # Space Complexity: O(N)
         #         if n == 1 or n == 2:
         #             return n
         #         memo = {1:1, 2:2}
@@ -15,7 +17,9 @@ class Solution:
 
         #         return helper(n)
 
-        # 也可以用list+bottom-up記住每次運算的結果
+        # solution 2: 使用list作為備忘錄(記住每次運算的結果)的bottom-up做法
+        # Time Complexity: O(N)
+        # Space Complexity: O(N)
         #         if n == 1 or n == 2:
         #             return n
         #         memo = [0] * (n+1)   #第0個位置空著不用
@@ -26,7 +30,8 @@ class Solution:
 
         #         return memo[n]
 
-        # 不要把全部的子問題答案都記下來，而只需紀錄當下想求得的問題的前兩個子問題以節省空間。O(N) -> O(1)
+        # solution 3: 不要把全部的子問題答案都記下來，而只需紀錄當下想求得的問題的前兩個子問題以降低空間複雜度
+        # Time Complexity依然是O(N)，但Space complexity由O(N)降至O(1)
 
         if n == 1 or n == 2:
             return n

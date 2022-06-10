@@ -18,3 +18,6 @@ class Solution:
         # s[:] = s[::-1]  #pythonic但不是in-place，右邊的list應該會暫開一個新的記憶體存，最後指回去s才釋放
         # s.reverse() #in-place
 
+        # notes: 若傳入格式非list而是string(s: str)，則使用slicing的效率是最好的s[::-1]
+        # ''.join(reversed(s)) is much slower!
+

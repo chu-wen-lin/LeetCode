@@ -1,8 +1,8 @@
-Here are my LeetCode submissions, including algorithms and database-related topics.
+Here are my LeetCode(and other coding assessment platforms) submissions, including algorithms and database-related topics.
 
 ### Algorithms
 
-|#  |Title|Solution|Difficulty|
+|#|Title|Solution|Difficulty|
 |---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](Algorithms/1_TwoSum.py)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](Algorithms/94_BinaryTreeInorderTraversal.py)|Easy|
@@ -38,7 +38,19 @@ Here are my LeetCode submissions, including algorithms and database-related topi
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](Algorithms/50_Pow.py)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](Algorithms/412_FizzBuzz.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](Algorithms/2_AddTwoNumbers.py)|Medium|
-
+|11|[ContainerwithMostWater](https://leetcode.com/problems/container-with-most-water/)|[Python](Algorithms/11_ContainerwithMostWater.py)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](Algorithms/42_TrappingRainWater.py)|Hard|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](Algorithms/102_BinaryTreeLevelOrderTraversal.py)|Medium||
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](Algorithms/121_BestTimetoBuyandSellStock.py)|Easy|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Python](Algorithms/77_Combinations.py)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](Algorithms/20_ValidParentheses.py)|Easy|
+|Coderbyte #4|[Bracket Matcher](https://coderbyte.com/information/Bracket%20Matcher)|[Python](Algorithms/Coderbyte_4_BracketMatcher.py)|Medium|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](Algorithms/221_MaximalSquare.py)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](Algorithms/46_Permutations.py)|Medium|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](Algorithms/329_LongestIncreasingPathinaMatrix.py)|Hard|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](Algorithms/48_RotateImage.py)|Medium|
+|Coderbyte #3|[Tree Constructor](https://coderbyte.com/information/Tree%20Constructor)|[Python](Algorithms/Coderbyte_3_TreeConstructor.py)|Medium|
+|Coderbyte #9|[First Factorial](https://coderbyte.com/information/First%20Factorial)|[Python](Algorithms/Coderbyte_9_FirstFactorial.py)|Easy|
 
 ### Database
 |#|Title|Solution|Difficulty|
