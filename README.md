@@ -51,6 +51,8 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](Algorithms/48_RotateImage.py)|Medium|
 |Coderbyte #3|[Tree Constructor](https://coderbyte.com/information/Tree%20Constructor)|[Python](Algorithms/Coderbyte_3_TreeConstructor.py)|Medium|
 |Coderbyte #9|[First Factorial](https://coderbyte.com/information/First%20Factorial)|[Python](Algorithms/Coderbyte_9_FirstFactorial.py)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](Algorithms/13_RomantoInteger.py)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](Algorithms/12_IntegertoRoman.py)|Medium|
 
 ### Database
 |#|Title|Solution|Difficulty|
@@ -61,5 +63,5 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](Database/183_CustomersWhoNeverOrder.sql)|Easy|
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[MySQL](Database/511_GamePlayAnalysisI.sql)|Easy|
 |607|[Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL](Database/607_SalesPerson.sql)|Easy|
-
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](Database/196_DeleteDuplicateEmails.sql)|Easy|
 
