@@ -64,6 +64,8 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](Algorithms/120_Triangle.py)|Medium|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](Algorithms/27_RemoveElement.py)|Easy|
 
+
+
 ### Database
 |#|Title|Solution|Difficulty|
 |---|---|---|---|
