@@ -3,8 +3,7 @@ class Solution:
         # Time Complexity: O(N)
         # Space Complexity: O(1)
 
-        fast = 0
-        slow = 0
+        fast, slow = 0, 0
 
         while fast < len(nums):
             if nums[fast] != nums[slow]:

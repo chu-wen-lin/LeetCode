@@ -34,6 +34,7 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](Algorithms/190_ReverseBits.py)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](Algorithms/9_PalindromeNumber.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](Algorithms/26_RemoveDuplicatesfromSortedArray.py)|Easy
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](Algorithms/27_RemoveElement.py)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](Algorithms/83_RemoveDuplicatesfromSortedList.py)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](Algorithms/50_Pow.py)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](Algorithms/412_FizzBuzz.py)|Easy|
@@ -62,8 +63,6 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](Algorithms/784_LetterCasePermutation.py)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](Algorithms/198_HouseRobber.py)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](Algorithms/120_Triangle.py)|Medium|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](Algorithms/27_RemoveElement.py)|Easy|
-
 
 
 ### Database
