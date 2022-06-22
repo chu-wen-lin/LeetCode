@@ -99,15 +99,28 @@ CREATE DATABASE database_name;
 ```mysql
 CREATE TABLE table_name
     column_1_name column_1_type NOT NULL,
-    column_2_name column_2_type,
-    column_n_name column_n_type;
+    column_2_name column_2_type DEFAULT default_value,
+    column_n_name column_n_type
+    PRIMARY KEY (column_name(s))
+    CHECK (column_n_name > specific_value);
 ```
-> Use **NOT NULL** constraints to specify that a column should not store NULL values.
-
+> 1. Use **NOT NULL** constraints to specify that a column should not store NULL values.
+> 2. Use **DEFAULT** to set a default value for a column.
+> 3. Use **PRIMARY KEY** to uniquely identifies each record in a table. Must contain UNIQUE values, cannot contain NULL values and consists of single or multiple columns (fields).
+> 4. USE **CHECK** to limit the value range that can be placed in a column.
+---
+### Insert new records
+```mysql
+INSERT INTO table_name (column_1, ..., column_n)
+VALUES (value_1, ..., value_n);
+```
 ---
 > Arithmetic or string expressions with NULL among the operands are evaluated as NULL.
 >
 > For example, 2 + 2 * NULL = NULL
+
+
+
 
 
 
