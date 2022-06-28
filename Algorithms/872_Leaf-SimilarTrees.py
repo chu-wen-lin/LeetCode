@@ -1,9 +1,14 @@
+from typing import Optional
+
+
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         # leaf nodes: 最下層(左右腳都是null)的nodes
@@ -25,7 +30,7 @@ class Solution:
         # solution 2: iterative
         def traverse(root, leaves):
             if root:
-                stack = []
+                stack = list()
                 stack.append(root)
 
                 while stack:

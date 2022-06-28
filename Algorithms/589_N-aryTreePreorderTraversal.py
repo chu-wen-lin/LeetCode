@@ -30,6 +30,9 @@ class Solution:
 
         # solution 2: iterative
         # time: O(N) space:O(N) 因為stack的最多（最差情況）存N-1個node，當樹的第二層全部都有葉子時
+        if not root:
+            return root
+
         res = []
         stack = [root]
 

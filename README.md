@@ -63,7 +63,9 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](Algorithms/784_LetterCasePermutation.py)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](Algorithms/198_HouseRobber.py)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](Algorithms/120_Triangle.py)|Medium|
-
+|504|[Base 7](https://leetcode.com/problems/base-7/)|[Python](Algorithms/504_Base7.py)|Easy|
+|1099|[Two Sum Less Than K](Algorithms/1099_TwoSumLessThanK.md)|[Python](Algorithms/1099_TwoSumLessThanK.py)|Easy|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](Algorithms/56_MergeIntervals.py)|Medium|
 
 ### Database
 |#|Title|Solution|Difficulty|
