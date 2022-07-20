@@ -22,7 +22,7 @@ class Solution:
                 max_sum = max(max_sum, total)
                 left += 1
             else:
-                right -= 1  # right-- to decrease sum
+                right -= 1  # right-- to decrease the sum
 
         return max_sum
 

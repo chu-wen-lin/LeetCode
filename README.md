@@ -66,6 +66,7 @@ Here are my LeetCode(and other coding assessment platforms) submissions, includi
 |504|[Base 7](https://leetcode.com/problems/base-7/)|[Python](Algorithms/504_Base7.py)|Easy|
 |1099|[Two Sum Less Than K](Algorithms/1099_TwoSumLessThanK.md)|[Python](Algorithms/1099_TwoSumLessThanK.py)|Easy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](Algorithms/56_MergeIntervals.py)|Medium|
+|Hackerrank|[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/)|[Python](Algorithms/Hackerrank_LilysHomework.py)|Medium|
 
 ### Database
 |#|Title|Solution|Difficulty|
